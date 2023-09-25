@@ -1,0 +1,80 @@
+body{
+    margin: 30px 180px 10px 180px;
+    background-color: azure;
+}
+
+i{
+    margin: 8px;
+}
+
+section{
+    background-color: white;
+    border-radius: 1%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+}
+
+.text {
+    margin: 50px 220px;
+}
+
+.text h1 {
+    padding-top: 50px;
+ }
+
+.text button {
+    margin-top: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 13px;
+    width: 75px;
+    height: 28px;
+}
+
+.download {
+    margin top: 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.sosmed {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sosmed i{
+    border-radius: 50%;
+    background-color: black;
+    color: #ffffff;
+}
+
+.card {
+    background-color: azure;
+    margin: 0 308px;
+    width: 300px;
+    height: 360px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0;
+}
+.card img {
+    padding: 0;
+    margin-top: -35px;
+    width:100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.card h2{
+    margin-top:10px;
+}
+
+.card p {
+    margin-top: -20px;
+}
